@@ -8,4 +8,4 @@ Created for nlu.md and stories.md file of Rasa..
 
 You'll probably need to make changes to domain.yml, too...
 
-Usage: python Rasa-md2yml inputfile outputfile
+Usage: python Rasa-md2yml.py inputfile outputfile
